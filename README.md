@@ -1,1 +1,2 @@
-# grupo_2_sprint
+Nuestra tienda tratara de vender prendas de segunda mano, con algunas opciones inovadoras como donar prendas o poder vender sus prendas en nuestra pagina con una ganancia del 50/50. Esta dirigido para adolescentes adultos que busquen prendas que ya no se vendan, o ropa mas barata de lo usual.
+Nuestro grupo se divide en 3 integrantes Dante Stigliani, Luciano Guzman y Genaro Rafault encargados de todo el diseño desarrollo y procesos de la pagina
