@@ -3,9 +3,13 @@ Nuestra tienda se dedicará a vender pantalones de cualquier tipo, pantalones co
 
 Estamos dirigidos a adolescentes y adultos que buscan pantalones que ya no se venden o  más económicos de lo habitual, lo cual es muy buscado por este público. 
 
-Nuestro equipo está compuesto por 3 miembros: Dante Stigliani, Luciano Guzmán y Genaro Rafault, encargados del diseño, desarrollo y procesos de la página.
+# Nuestro equipo 
+está compuesto por 3 miembros: 
+- Dante Stigliani 
+- Luciano Guzmán 
+-  Genaro Rafault
 
-Listado de paginas de referencia o inspiracion:
+# Listado de paginas de referencia o inspiracion:
 - Adidas: fue elegido porque es una marca que inmediatamente pensas si decis "marca de ropa"
 https://www.adidas.com.ar/
 - Mercado Libre: la tienda online mas grande de Argentina obviamente nos inspiramos por este
