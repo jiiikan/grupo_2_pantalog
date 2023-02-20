@@ -1,2 +1,4 @@
-Colores: https://coolors.co/palette/483c46-3c6e71-70ae6e-beee62-f4743b
-Tipografia: https://fonts.google.com/specimen/Open+Sans
+#Colores: 
+483C46 - 3C6E71 - 70AE6E
+#Tipografia: 
+https://fonts.google.com/specimen/Tajawal?query=taja
