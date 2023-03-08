@@ -1,4 +1,4 @@
 # Colores: 
-483C46 - 3C6E71 - 70AE6E
+#2589BD - #187795 - #38686A
 # Tipografia: 
 https://fonts.google.com/specimen/Tajawal?query=taja
